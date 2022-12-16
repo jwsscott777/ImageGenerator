@@ -77,7 +77,7 @@ struct ContentView: View {
                     }
                 }
 
-                TextField("Type prompt here...", text: $text)
+                TextField("Type in prompt here...", text: $text)
                     .textFieldStyle(.roundedBorder)
                     .focused($descFocused)
                     .padding()
