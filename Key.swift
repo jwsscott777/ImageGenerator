@@ -8,5 +8,5 @@
 import Foundation
 
 @frozen enum Constants {
-        static let key = "Get your api key"
+        static let key = "Get your api key from openai"
     }
